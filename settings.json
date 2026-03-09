@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "ValoraBot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "ValoraBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ricoiscool.aternos.me",
-    "port": 56559,
+    "ip": "valoramc.aternos.me",
+    "port": 28506,
     "version": "1.21.1"
   },
   "position": {
@@ -30,9 +30,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Welcome Everyone",
       ]
     },
     "chat-log": true,
@@ -78,7 +76,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "Join The Discord",
     "events": {
       "connect": true,
       "disconnect": true,
