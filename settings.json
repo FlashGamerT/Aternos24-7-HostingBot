@@ -30,7 +30,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Welcome Everyone",
+        "Welcome Everyone"
       ]
     },
     "chat-log": true,
